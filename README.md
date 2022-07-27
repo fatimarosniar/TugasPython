@@ -28,8 +28,10 @@ command : pyhon main.py
 
 Masih perlu disempurnakan lagi dan perlu waktu tambahan untuk menambahkan menu:
 1. Peminjaman
-2. Tampilkan Daftar Peminjaman -- data 3 + (tanggal_pinjam) auto; tanggal_pengembalian (tanggal_pinjam + 3hari)
-3. Cari Buku -- id_buku/nama_buku/kategori/stock(stok awal - stok pinjam)
+2. Tampilkan Daftar Peminjaman
+3. Cari Buku 
 4. Pengambilan
+
+Mohon maaf masih jauh dari sempurnaa dan telaat
 
 
