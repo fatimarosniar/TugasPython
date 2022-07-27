@@ -1,22 +1,22 @@
 # TugasPython
 Username : fatima-jmmp
 
-Objective :
+**Objective :**
 Membuat LMS untuk perpustakaan pacmann
 
-Detail :
+**Detail :**
 
-main.py \
+**main.py \**
   Menu utama perpustakaan yang berisi menu :
   1. Pendaftaran User Baru (user.py)
   2. Pendaftaran Buku Baru (buku.py)
   3. Tampilan tabel User (tbl_user.py)
   4. Tampilan table Buku (tbl_buku.py)
 
-consql.py \
+**consql.py \**
 Module untuk menghubungkan dengan MySQL, membuat database dan table 
 
-Cara Running :
+**Cara Running :**
 
 1. Jalan kan consql.py di terminal untuk menghubungkan, membuat database dan membuat table di My SQL
 command : python consql.py
@@ -24,7 +24,7 @@ command : python consql.py
 command : pyhon main.py
 3. masukan nomor tugas sesuai yang diinginkan
 
-Saran dan Perbaikan:
+**Saran dan Perbaikan:**
 
 Masih perlu disempurnakan lagi dan perlu waktu tambahan untuk menambahkan menu:
 1. Peminjaman
